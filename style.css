@@ -34,13 +34,16 @@ img {
 .wrap h1 {
   font-size: 30px;
   font-weight: 700;
-  margin: 0 0 90px;
+  margin: 0 0 45px;
 }
 .wrap h2 {
   font-size: 24px;
   font-weight: 400;
   line-height: 1.6;
-  margin: 0 0 80px;
+  margin: 0 0 40px;
+}
+p{
+    margin: 10px;
 }
 @-webkit-keyframes Gradient {
   0% {
